@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "A front-end developer builds the front-end portion of websites and web applications—the part users see and interact with. A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Graphic Design",
+      "description": "The role of the graphic designer in the communication process is that of encoder or interpreter of the message. They work on the interpretation, ordering, and presentation of visual messages."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "user interface (UI) refers to the interactivity, look, and feel of a product screen or web page, while user experience (UX) covers a user's overall experience with the product or website."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Worldpress Development",
+      "description": "WordPress originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites,  media galleries,  online stores. etc"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Custom Music App",
+      "description": "A funtional custom music player app loaded with preprogrammed songs for your listening pleasure ",
+      "link": "Please View in Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Todo app with React",
+      "description": "A Simple To-do list app using react framework",
+      "link": "Please View in Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Movie search app using API",
+      "description": "A fun fully funtional movie search app that makes use of OMDB API to showcase movies details, such as cast members, plot, duration, year of production etc. ",
+      "link": "Please View in Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.jpg",
+      "description": "Vindorite Polystyrene Nigeria Limited supplyers high quality polystyrene and sandwich panels and other accessories for the building/construction industry in Nigeria.",
+      "author_name": "VINCENT ANAELE",
+      "author_designation": "Chairman vindorite polystyrene"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Ventel Resources Nigeria LTD To Carry on Business as general  contractors, merchants, importers etc",
+      "author_name": "Chinedu William",
+      "author_designation": "CEO vintel Resourses"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.jpg",
+      "description": "As a travel booking company he was a part of the team that created our website I recommend",
+      "author_name": "Amadi Elvis",
+      "author_designation": "MD GeoTrip "
+    }
+  ]
+}
