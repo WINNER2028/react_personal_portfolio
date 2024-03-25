@@ -9,7 +9,7 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-                 Am a self-driven frontend Engineer,
+                 I Am a self-driven frontend Engineer,
                  Graphic Designer and web design enthusiast.<br/> 
                  I love creating amazing Graphic contents
                  and user friendly web contents... 
