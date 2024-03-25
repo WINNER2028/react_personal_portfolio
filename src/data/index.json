@@ -10,19 +10,19 @@
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Graphic Design",
-      "description": "The role of the graphic designer in the communication process is that of encoder or interpreter of the message. They work on the interpretation, ordering, and presentation of visual messages."
+      "description": "The role of a graphic designer in the communication process is that of encoder or interpreter of the message. They work on the interpretation, ordering, and presentation of visual messages."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "user interface (UI) refers to the interactivity, look, and feel of a product screen or web page, while user experience (UX) covers a user's overall experience with the product or website."
+      "description": "User interface (UI) refers to the interactivity, look, and feel of a product screen or web page, while user experience (UX) covers a user's overall experience with the product or website."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Worldpress Development",
-      "description": "WordPress originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites,  media galleries,  online stores. etc"
+      "description": "WordPress was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites,  media galleries,  online stores. etc"
     }
   ],
   "portfolio": [
@@ -30,7 +30,7 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Custom Music App",
-      "description": "A funtional custom music player app loaded with preprogrammed songs for your listening pleasure ",
+      "description": "A funtional custom music player app loaded with preprogrammed songs for your listening pleasure created using html, css and javascript",
       "link": "Please View in Github"
     },
     {

@@ -1,3 +1,12 @@
+# About
+project
+The aim of the project is to create a visual representation of educatonal qualifications, skills, expertise, and capabilities and work experience as a frontend/backend engineer, civil engineer, architect and so on, sortof like an digital resume. It allows you to demonstrate your proficiency in various technologies, and design principles.
+
+
+# inspiration
+To me Building a portfolio site provides an opportunity to connect with peers, mentors, clients, and industry influencers. By sharing my work and expertise online, i can network with like-minded professionals, collaborate on projects, and exchange valuable insights and feedback. The inspiration lies in building a supportive community and fostering meaningful relationships within our industry.
+furthermore a desire to continuously improve and refine one’s portfolio over time, adding new projects, updating one's skills, and adapting to changes in our industry or niche.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

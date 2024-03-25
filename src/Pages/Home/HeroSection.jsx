@@ -5,7 +5,7 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hi, I'm OBI CHIEMERIE</p>
+          <p className="section--title">Hi, I'm OBI CHIEMERIE CHUKWUEMEKA</p>
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">FrontEnd</span>{" "}
             <br />
