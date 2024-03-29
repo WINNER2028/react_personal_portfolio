@@ -1,6 +1,6 @@
 import data from "../../data/index.json";
 
-export default function Testimonial() {
+export default function Testimonials() {
   return (
     <section className="testimonial--section" id="testimonial">
       <div className="portfolio--container-box">
@@ -12,8 +12,8 @@ export default function Testimonial() {
       <div className="portfolio--section--container">
         {data?.testimonial?.map((item, index) => (
           <div key={index} className="testimonial--section--card">
-            <div className="testimonial--section--card--review">
-              {Array.from({ length: 5 }, (reviews, index) => (
+           { /* <div className="testimonial--section--card--review">
+              {Array.from({ length: 4 }, (reviews, index) => (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="27"
@@ -27,7 +27,7 @@ export default function Testimonial() {
                   />
                 </svg>
               ))}
-            </div>
+            </div> */}
             <p className="text-md">{item.description}</p>
             <div className="testimonial--section--card--author--detail">
               <img src={item.src} alt="Avatar" />
